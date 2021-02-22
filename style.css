@@ -159,6 +159,10 @@ nav {
     opacity:.4;
 }
 
+#mainFoot {
+    max-width: 1000px !important;
+}
+
 .testimonials {
     margin-left: auto;
     margin-right: auto;
